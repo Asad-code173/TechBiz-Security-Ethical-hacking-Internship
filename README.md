@@ -30,5 +30,20 @@ To reinforce the hands-on skills, relevant TryHackMe rooms were completed alongs
 
 🎯 Learning Objectives
 
+By the end of this internship, the goals were to:
 
+ Build a strong foundation in cybersecurity principles
+ 
+ Understand networking concepts and protocols
+ 
+ Gain proficiency in Linux administration and the command line
+ 
+ Perform reconnaissance and information gathering
+ 
+ Conduct network scanning and service enumeration
+ 
+ Identify and assess vulnerabilities
+ 
+ Understand web application security concepts
+ 
 
