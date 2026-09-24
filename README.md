@@ -15,6 +15,16 @@ A six-week journey through ethical hacking and penetration testing, from network
 
 This repository is a complete collection of professional cybersecurity internship reports documenting my learning journey through fundamental and practical offensive security concepts. The work spans networking, Linux, reconnaissance, vulnerability assessment, web application security, exploitation, password security, and a final capstone penetration testing project.
 
+🎯 Learning Objectives
+
+By the end of this internship, the goals were to:
+
+ Build a strong foundation in cybersecurity principles
+ Understand networking concepts and protocols
+ Gain proficiency in Linux administration and the command line
+ Perform reconnaissance and information gathering
+ Conduct network scanning and service enumeration
+
 Every task includes:
 
 📝 Detailed documentation and methodology.
